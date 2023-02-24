@@ -52,9 +52,9 @@
 	<main>
 		<p>Welcome to my website! Here you can find links to my social media profiles:</p>
 		<div class="social-media">
-			<a href="https://www.facebook.com/yourusername">Facebook</a>
-			<a href="https://www.twitter.com/yourusername">Twitter</a>
-			<a href="https://www.instagram.com/yourusername">Instagram</a>
+			<a href="https://www.facebook.com/nasbeck">Facebook</a>
+			<a href="https://www.twitter.com/nasbeck">Twitter</a>
+			<a href="https://www.instagram.com/nasbeck">Instagram</a>
 		</div>
 	</main>
 </body>
